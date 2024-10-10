@@ -9,6 +9,7 @@ This project is part of my learning journey in the course **The Complete Android
 - **Kotlin**: Main programming language for Android development.
 - **Jetpack Compose**: For building modern UI with less code and more flexibility.
 - **Retrofit**: A type-safe HTTP client for Android and Java .
+- **Navigation**: Android navigation between application screens, sharing context between routes.
 - **Android Studio**: The integrated development environment (IDE) used for the project.
 
 ## 🚀 Getting Started
